@@ -1,3 +1,9 @@
+php-evenement (3.0.1-2) unstable; urgency=medium
+
+  * Add examples to the package
+
+ -- Peter Záhradník <peter.zahradnik@znik.sk>  Mon, 04 Sep 2017 19:55:01 +0100
+
 php-evenement (3.0.1-1) unstable; urgency=low
 
   * Initial release.
