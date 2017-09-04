@@ -1,0 +1,3 @@
+Test-Command: phpab --output autoload.php --template debian/autoload.dep8.php.tpl tests && phpunit --bootstrap autoload.php
+Restrictions: rw-build-tree
+Depends: @, phpab, phpunit
